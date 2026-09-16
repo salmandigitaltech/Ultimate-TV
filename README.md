@@ -13,7 +13,7 @@
 
 You can download the latest official `.apk` package directly from this repository:
 
-[![Download APK]([https://img.shields.io/badge/📥_Download_Ultimate_TV_APK-v1.0.0-28a745?style=for-the-badge&logo=android)](https://github.com/YOUR_GITHUB_USERNAME/ultimate_tv/releases/latest](https://github.com/salmandigitaltech/Ultimate-TV/releases/tag/v1.0.0))
+[![Download APK] [https://github.com/salmandigitaltech/Ultimate-TV/releases/tag/v1.0.0]
 
 *Alternative download location:*  
 Check the **[GitHub Releases Page]([https://github.com/YOUR_GITHUB_USERNAME/ultimate_tv/releases](https://github.com/salmandigitaltech/Ultimate-TV/releases/tag/v1.0.0))** to grab the latest `.apk` package file.
