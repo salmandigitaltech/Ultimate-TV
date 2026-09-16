@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=android)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Android%20TV-brightgreen?style=for-the-badge&logo=android)
 ![Format](https://img.shields.io/badge/Format-APK%20Package-orange?style=for-the-badge&logo=google-play)
-![License](https://img.shields.io/badge/License-Freeware-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 
 **Ultimate TV** is a high-performance streaming application designed for Android Smartphones, Tablets, and Android Smart TVs / TV Boxes. Stream your favorite **Live TV Channels** and **Video on Demand (VOD)** movies and series with ultra-fast playback and a modern TV-optimized interface.
 
